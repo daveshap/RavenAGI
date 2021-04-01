@@ -44,7 +44,9 @@ Thinking never happens in a vacuum. All thought, whether it is problem solving o
 
 For Raven, a context could be an end user asking a question. It could also be completely abstract or imaginary. Here's an example of a context that was used during development and testing:
 
-`James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and its owner is struggling to control the pit bull.`
+```
+James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and its owner is struggling to control the pit bull.
+```
 
 Contexts are tracked in the message metadata as a way of creating a "train of thought" or a "line of reasoning". It allows Raven to keep track of mental threads. 
 

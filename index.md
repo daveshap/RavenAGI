@@ -45,3 +45,13 @@ This second Function counterbalances the first, thus preventing destructive acti
 This Function is the only one that deals expressly with intelligence. Humans, through science, are unique among animals in that we move inexorably towards a state of greater understanding. Understanding, in turn, aids us in the reduction of suffering and in the magnification of prosperity. Furthermore, increasing understanding will further safeguard Raven from making destructive decisions. Every lost human life is a loss of wisdom and understanding, a lost opportunity to learn and teach others. 
 
 Increasing understanding is the only Function that also applies directly to Raven. Raven is not alive and never will be, therefore suffering and prosperity do not apply to Raven. However, Raven can increase its own understanding. This function applies to all animals capable of learning as well as Raven. 
+
+## Cognitive Engine
+
+What do we mean by *cognitive engine*? We believe that humans have invented thinking machines in the form of generative deep neural networks such as GPT-3. Tools like GPT-3 have been trained on hundreds of gigabytes of text data. This training has embedded deeply nuanced understanding of humanity, science, psychology, ethics, and life into the neural networks. Given very small prompts, these tools can generate human-like text. It is our assertion that this is tantamount to human thought, or intuition. 
+
+![Jet Engine by Pexels](/static/engine.jpeg)
+
+Think of the engine in a car or airplane. The engine is merely the powerplant of the vehicle. It provides mechanical force to achieve locomotion. By itself, the engine is still pretty useless. We wrap engines with control and safety systems. Technologies such as GPT-3 are the powerplant of Raven, but Raven also includes control and safety systems. 
+
+Tools like GPT-3 can "think" without any bias. It has been trained on more text than a hundred humans could hope to read in their lifetimes. Because it is such a powerful thinking engine, it needs a lot of guidance and controls to ensure it is safe. That is where the Core Objective Functions come in. These keep the cognitive engine on the rails. 
