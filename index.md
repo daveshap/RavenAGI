@@ -2,7 +2,7 @@
 
 Demo video coming soon!
 
-Get the code here: (https://github.com/daveshap/Raven_MVP)[https://github.com/daveshap/Raven_MVP]
+Get the code here: [https://github.com/daveshap/Raven_MVP](https://github.com/daveshap/Raven_MVP)
 
 ## Introduction
 
