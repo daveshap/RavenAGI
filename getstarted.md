@@ -4,7 +4,7 @@ MVP means "Minimum Viable Product" - the simplest version of something that actu
 
 ## Prerequisites
 
-You will need your own GPT-3 access in order to use Raven. At present, GPT-3 is the only cognitive engine capable of running Raven. You can apply for access to GPT-3 here: https://beta.openai.com/
+You will need your own GPT-3 access in order to use Raven. At present, GPT-3 is the only cognitive engine capable of running Raven. You can apply for access to GPT-3 here: [https://beta.openai.com/](https://beta.openai.com/)
 
 ## Steps
 

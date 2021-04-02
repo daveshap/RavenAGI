@@ -1,6 +1,6 @@
 # Raven AGI
 
-Demo video coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYkZrJQVOgg" title="Raven AGI MVP Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Get the code here: [https://github.com/daveshap/Raven_MVP](https://github.com/daveshap/Raven_MVP)
 
