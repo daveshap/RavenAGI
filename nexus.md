@@ -1,5 +1,51 @@
 # Nexus
 
+## Stream of Consciousness
+
+Raven "thinks" in the form of a textual stream of consciousness. The nexus is the microservice that hosts the stream of consciousness and allows any number of other microservices to participate. Raven's thinking is recorded in natural language for the sake of transparency and comprehensibility. In essence, Raven thinks the same way you do. This allows Raven to use verbal reasoning and logic the same way that humans do. 
+
+## Nexus Functions
+
+The nexus uses a REST API for the sake of simplicity. The two primary functions are GET and POST. The GET function retrieves messages from the nexus while POST adds messages to the nexus. POSTing new messages requires a few fields, described below. Retrieving messages from the nexus with GET allows you to use several query parameters to filter the response. 
+
+### POST
+
+Adding a message is super simple
+
+```python
+import requests
+nexus_api = 'http://localhost:9999/'
+payload = {'MSG': 'message', 'KEY': 'type.key', 'SID':'service.id', 'IRT':'previous.message.id', 'CTX':'original.context.id'}  # nexus will add MID and TIME
+requests.request(method='POST', url=nexus_api, json=payload)
+```
+
+### GET
+
+Fetching messages from the nexus is similarly simple:
+
+```python
+import requests
+nexus_api = 'http://localhost:9999/'
+urlquery = {'keyword': 'search term'}
+response = requests.request(method='GET', url=nexus_api, params=urlquery)
+```
+
+You can use any, all, or none of the available query terms. The available query terms are:
+
+| Term | Description |
+|---|---|
+| keyword | Searches entire message for a given string, returns all messages that match. |
+| start | Returns all messages occurring after specified time. |
+| end | Returns all messages occurring before specified time. |
+| mid | Returns message with specified MID. |
+| key | Returns all messages with given key. |
+| ctx | Returns all messages responding to given context. |
+| sid | Returns all messages originating from specified service. |
+| irt | Returns all messages responding to specified message. |
+| metadata | Returns only the metadata. This option saves bandwidth. |
+
+## Example Stream
+
 The following is a complete stream from a real session provided by Raven. It is important to note that the only thing written by a human was the original context!
 
 ```json
