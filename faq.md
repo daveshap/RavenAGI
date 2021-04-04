@@ -34,5 +34,5 @@ Yes! Please get involved. The best way is to learn how Raven works and start con
 
 Yes! The two best ways are on the RavenAGI subreddit and on LinkedIn:
 
-- (https://www.reddit.com/r/RavenAGI/)[https://www.reddit.com/r/RavenAGI/]
-- (https://www.linkedin.com/in/dshap-automator/)[https://www.linkedin.com/in/dshap-automator/]
+- [https://www.reddit.com/r/RavenAGI/](https://www.reddit.com/r/RavenAGI/)
+- [https://www.linkedin.com/in/dshap-automator/](https://www.linkedin.com/in/dshap-automator/)
