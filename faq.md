@@ -29,3 +29,10 @@ David Shapiro began work on what would become Raven back in 2009 and 2010. David
 ## Can I participate in research and development?
 
 Yes! Please get involved. The best way is to learn how Raven works and start contributing microservices and code enhancements. Eventually, we will need other kinds of support, such as mobile app development. Check out the **Roadmap** page as well as the **Get Involved** page for more details. 
+
+## Can I get in touch?
+
+Yes! The two best ways are on the RavenAGI subreddit and on LinkedIn:
+
+- (https://www.reddit.com/r/RavenAGI/)[https://www.reddit.com/r/RavenAGI/]
+- (https://www.linkedin.com/in/dshap-automator/)[https://www.linkedin.com/in/dshap-automator/]
