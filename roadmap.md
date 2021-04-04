@@ -9,7 +9,7 @@
 - Core Objective Functions
 - Iterator
 
-## Incomplete Work
+## Future Work
 
 ### Services
 
@@ -18,7 +18,8 @@
 - Recall
 - Encyclopedia
 - Executive
-- Context 
+- Context
+- No-coding or low-coding microservices (define service as JSON or YAML)
 
 ### Apps
 
