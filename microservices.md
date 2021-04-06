@@ -41,3 +41,12 @@ While microservices have plenty of advantages, there are some costs.
 - **Distributed thinking.** Microservices require you to think about programming in a distributed manner and use APIs.
 - **More to keep track of.** Microservices are independent application components, meaning you need to keep track of all of them.
 - **Complex interactions.** Microservices are distributed across networks and multiple compute nodes, introducing different bottlenecks and failure points. 
+
+## Types of Microservices
+
+Raven will ultimately have quite a few types of microservices. This list is not exhaustive.
+
+- **Sensors.** These are the services that take input from the outside world, such as audio and video.
+- **Executive.** These are the services that generate some kind of output (such as audio, video, or robotic action).
+- **Cognitive.** These are the thinking services, such as action generation, action iteration, and Core Objective Functions.
+- **Metacognition.** These are the services that monitor what Raven is thinking about and modify Raven's priorities. For example, the inhibition microservice halts lines of thought on completed topics. The fact-checking service ensures that Raven doesn't say false things. 

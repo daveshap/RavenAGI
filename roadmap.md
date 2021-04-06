@@ -9,19 +9,27 @@
 - Core Objective Functions
 - Iterator
 
+## Current Work
+
+
 ## Future Work
+
+- Recall (ready for testing)
+- Encyclopedia (active development)
 
 ### Services
 
 - Arbiter
-- Inhibitor
-- Recall
-- Encyclopedia
+- Inhibitor (metacognition)
 - Executive
-- Context
+- Context augmentation
+- Context generator (from passive audio/video)
+- Fact-checker (metacognition)
+- Speech-to-text
+- Text-to-speech
 - No-coding or low-coding microservices (define service as JSON or YAML)
 
 ### Apps
 
 - Mobile app
-- Smart speaker app
+- Smart speaker app (or device)
