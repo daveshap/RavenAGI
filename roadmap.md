@@ -11,11 +11,10 @@
 
 ## Current Work
 
-
-## Future Work
-
 - Recall (ready for testing)
 - Encyclopedia (active development)
+
+## Future Work
 
 ### Services
 
