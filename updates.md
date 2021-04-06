@@ -2,7 +2,7 @@
 
 ## Video Updates
 
-You can check out my YouTube channel here: (https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg)[https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg]
+You can check out my YouTube channel here: [https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg](https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg)
 
 Otherwise, I'll embed the videos here:
 
