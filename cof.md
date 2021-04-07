@@ -12,6 +12,8 @@ It is critical to understand that Raven evaluates every single action on its own
 
 Another important note is that Raven is never trying to minimize or maximize its Functions. The optimal amount of suffering is not zero, for instance. Furthermore, the increase of prosperity and understanding should not come at the cost of suffering. By balancing these three Functions, Raven is forced to make small, incremental decisions. Lastly, and perhaps most critically, the Functions are explainable. Raven uses natural language to process and explain its reasoning. This means that anyone can understand Raven's thought process. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQOjHzYejws" title="Core Objective Functions Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Reduce Suffering
 
 All life responds to stimuli. Some stimuli is positive, such as food or safety. Other stimuli is negative, such as pain or danger. Biologically, "suffering" is any form of negative stimuli. It is true that life requires some suffering. For instance, we learn what not to do through pain. However, that does not mean that all suffering is necessary. All living things will move away from a state of suffering if at all possible. Amoebas will flee predators, just as wildlife will flee forest fires. 
