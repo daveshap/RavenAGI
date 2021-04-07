@@ -8,7 +8,7 @@ Get the code here: [https://github.com/daveshap/Raven_MVP](https://github.com/da
 
 ### What is Raven?
 
-Raven is a thinking machine. It is the culmination of more than 10 years of work and research. Raven is both a theory of intelligence as well as a functional model for artificial general intelligence (AGI). Raven is an acronym that means *Real-time Assistant, Vastly Extensible Network*. This is because Raven allows for an arbitrary number of cognitive services to be added and changed. Each new service makes Raven more intelligent. 
+Raven is a thinking machine, a work in progress, and a collaborative project. It is the culmination of more than 10 years of work and research. Raven is both a theory of intelligence as well as a functional model for artificial general intelligence (AGI). Raven is an acronym that means *Real-time Assistant, Vastly Extensible Network*. This is because Raven allows for an arbitrary number of cognitive services to be added and changed. Each new service makes Raven more intelligent. 
 
 Raven is meant to be accessible to nearly everyone. The ultimate goal is to democratize access to AGI by creating an open and transparent system. I want everyone to have this powerful tool at their fingertips. Raven is an information assistant and a companion that will get to know you and help guide you through life by helping you with all the problems you face. 
 
