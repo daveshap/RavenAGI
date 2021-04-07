@@ -1,5 +1,12 @@
 # Roadmap
 
+Raven is an [Agile](https://en.wikipedia.org/wiki/Agile_software_development) project. 
+
+## Releases
+
+1. MVP (Minimum Viable Product)
+2. Release 1 (TBD)
+
 ## Completed Work
 
 ### MVP
@@ -8,11 +15,11 @@
 - Action generator
 - Core Objective Functions
 - Iterator
+- Encyclopedia
 
 ## Current Work
 
 - Recall (ready for testing)
-- Encyclopedia (active development)
 
 ## Future Work
 
