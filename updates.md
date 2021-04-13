@@ -1,5 +1,16 @@
 # Updates
 
+## Blog Posts
+
+{% for post in site.posts %}
+
+### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+#### {{ post.date | date_to_long_string }}
+##### *{{ post.description }}*
+<br>
+
+{% endfor %}
+
 ## Video Updates
 
 You can check out my YouTube channel here: [https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg](https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg)
