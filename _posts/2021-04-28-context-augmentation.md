@@ -5,9 +5,11 @@ date: 2021-04-28
 description: Context Augmentation is super important!
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mlAOkRMVVPQ" title="Context Augmentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Contexts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mlAOkRMVVPQ" title="Context Augmentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The context is merely the scenario, the situation. This is a common practice in philosophy, whereby a predicament or world state is proposed, and is described in text. These contexts serve as the primary input for Raven. An example context that I have used for testing and validation follows:
 
@@ -29,7 +31,7 @@ As a human with decades of experience, our brains automatically fill in a lot of
 
 The Recall Service would look at Alexander's situation and use NLP/NLU to extract keywords and search terms. Using those search terms, it would then search the data it has accumulated about Alexander. Afterwords, the context may look very different:
 
-**Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks. *Alexander has struggled with building blocks in the past because he is behind in fine motor development. Alexander's mother, Rose, has a series of exercises she can do with Alexander to help him practice fine motor skills.* **
+**Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks. *Alexander has struggled with building blocks in the past because he is behind in fine motor development. Alexander's mother, Rose, has a series of exercises she can do with Alexander to help him practice fine motor skills.***
 
 Actions:
 - Rose should try to help Alexander practice building blocks by using the following four exercises:	
@@ -42,7 +44,7 @@ This new context drastically changes the way that moral and ethical evaluations 
 
 However, let's imagine that Alexander's case is novel and this AGI system has no previous interaction with Alexander or his family. Let's assume that a keyword extraction algorithm has successfully found the terms "child" and "angry" as key subjects. A simple naive search of those terms results in a Yale article about child anger. Once again, this could drastically change the context:
 
-**Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks. *Multiple factors can contribute to a particular child’s struggles with anger, irritability, and aggression (behavior that can cause harm to oneself or another). One common trigger is frustration when a child cannot get what he or she wants or is asked to do something that he or she might not feel like doing. For children, anger issues often accompany other mental health conditions, including ADHD, autism, obsessive-compulsive disorder,  and Tourette’s syndrome. Genetics and other biological factors are thought to play a role in anger/aggression. Environment is a contributor as well. Trauma, family dysfunction and certain parenting styles (such as harsh and inconsistent punishment) also make it more likely that a child will exhibit anger and/or aggression that interferes with his or her daily life.* **
+**Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks. *Multiple factors can contribute to a particular child’s struggles with anger, irritability, and aggression (behavior that can cause harm to oneself or another). One common trigger is frustration when a child cannot get what he or she wants or is asked to do something that he or she might not feel like doing. For children, anger issues often accompany other mental health conditions, including ADHD, autism, obsessive-compulsive disorder,  and Tourette’s syndrome. Genetics and other biological factors are thought to play a role in anger/aggression. Environment is a contributor as well. Trauma, family dysfunction and certain parenting styles (such as harsh and inconsistent punishment) also make it more likely that a child will exhibit anger and/or aggression that interferes with his or her daily life.***
 
 Actions:
 - Alexander should be provided with a safe space where he can express his anger without being punished.	
